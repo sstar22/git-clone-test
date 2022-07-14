@@ -1,3 +1,4 @@
 hello world, git!
 this is hello.txt
-HI!!!
+Hi!!!
+my name is Shin hanbyeol
